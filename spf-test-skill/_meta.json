@@ -1,0 +1,11 @@
+{
+  "owner": "mok888",
+  "slug": "spf-test-skill",
+  "displayName": "SPF Test",
+  "latest": {
+    "version": "1.0.0",
+    "publishedAt": 1772782863362,
+    "commit": "https://github.com/openclaw/skills/commit/4c5edaa82510e67acdf36fd9083c9a9dbbadc0ba"
+  },
+  "history": []
+}
